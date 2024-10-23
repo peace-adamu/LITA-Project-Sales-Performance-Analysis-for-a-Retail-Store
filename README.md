@@ -1,6 +1,6 @@
 # Project Title: Sales Performance Analysis for a Retail Store
 
-## ## Table of Contents
+##  Table of Contents
 - [Project Preview](#docs/project-preview.md)
 - [Project Objective](#project-objective)
 - [Project Significance](#project-significance)
