@@ -1,5 +1,13 @@
 # Project Title: Sales Performance Analysis for a Retail Store
 
+## ## Table of Contents
+- [Project Preview](#docs/project-preview.md)
+- [Project Objective](#project-objective)
+- [Project Significance](#project-significance)
+- [Methodology](#methodology)
+- [Prerequisites](#Prerequisities)
+- [Discussion of Result](#discussion-of-result)
+
 ## Project Preview
 This project involves analyzing sales data for a retail store to identify top-selling products, regional sales trends, and monthly sales patterns. The analysis aims to understand sales performance, track product categories, and highlight key areas for improvement.
 
@@ -22,14 +30,6 @@ This project showcases exceptional data analysis skills, providing actionable in
 - SQL queries for data extraction and analysis
 - Excel worksheets with calculated metrics and pivot tables
 
-## ## Table of Contents
-- [Project Preview](#docs/project-preview.md)
-- [Project Objective](#project-objective)
-- [Project Significance](#project-significance)
-- [Methodology](#methodology)
-- [Prerequisites](#Prerequisities)
-- [Discussion of Result](#discussion-of-result)
-
 ## Project Objectives
 The primary objective of this project is to analyze the sales performance of a retail store by exploring sales data. The goal is to uncover key insights such as top-selling products, regional performance, and monthly sales trends.
 This analysis will be presented through an interactive Power BI dashboard to facilitate decision-making and strategic planning.
@@ -37,13 +37,7 @@ This analysis will be presented through an interactive Power BI dashboard to fac
 ## Project Significance:
 Understanding sales performance is crucial for any retail business as it directly impacts revenue and profitability. By identifying top-selling products, high-performing regions, and sales trends, the retail store can optimize inventory, tailor marketing strategies, and improve overall efficiency. This project provides actionable insights that can lead to increased sales and better resource allocation.
 
-## Project Significance
-Sales Performance Analysis Project: This project holds substantial value for retail businesses by providing deep insights into sales dynamics:
-
-- Identifies top-selling products and underperformers.
-- Reveals regional sales trends and opportunities.
-- Unveils monthly sales patterns for strategic planning.
-- Supports inventory management and marketing strategies.
+.
 #### Benefits:
 - 15-25% increase in product sales
 - 10-20% improvement in regional sales performance
@@ -82,7 +76,7 @@ Sales Performance Analysis Project: This project holds substantial value for ret
 - Power BI (Visualizating the data)
 - Github (Presenting the report)
 
- ## Data
+## Data
 The dataset used in this project is sourced from the retail store's internal sales records from Ladies in Tech Africa (LITA).
 
 This dataset contains detailed information about sales transactions, including:
@@ -120,19 +114,20 @@ The project results will include detailed insights into the retail store's sales
 
 ### Discussion of Pivot Table Results: Total Sales by Product
 The pivot table provides a clear summary of total sales by product, showcasing both the sum of quantities sold and the sum of unit prices. Here are the key takeaways:
-#### Overall Performance:
+#### Insight
+##### Overall Performance:
 - Total Quantity Sold: 345,000 units
 - Total Revenue: 1,462,500
-#### Top Performers:
+##### Top Performers:
 - Hat: Highest quantity sold (80,000 units) with a revenue of 212,500.
 - Shoes: Highest revenue (350,000) with a quantity of 72,500 units sold.
 - Shirt: Significant contributor with 62,500 units sold and a revenue of 275,000.
-#### Moderate Performers:
+##### Moderate Performers:
 - Gloves: 62,500 units sold, generating 175,000 in revenue.
 - Socks: 40,000 units sold, with a revenue of 137,500.
-#### Low Performer:
+##### Low Performer:
 -Jacket: Despite generating a high revenue of 312,500, only 27,500 units were sold, indicating a higher price point.
-#### Insight:
+#### Recommendations:
 - Inventory Management:
 High inventory levels should be maintained for top-selling items like Hats and Shoes to meet consistent demand and avoid stockouts.
 - Pricing Strategy:
@@ -145,8 +140,9 @@ Regular monitoring and updating of inventory based on these insights will help a
 ![ps2](https://github.com/user-attachments/assets/5b7d3160-c03c-4779-a3f0-aa36e943e0c0)
 
 ### Discussion of Pivot Table Results: Total Sales by Region
-The pivot table provides a summary of total sales by region, detailing both the sum of quantities sold and the sum of unit prices. Here are the key insights:
-#### Overall Performance:
+The pivot table provides a summary of total sales by region, detailing both the sum of quantities sold and the sum of unit prices.  
+#### Insights:
+##### Overall Performance:
 - Total Quantity Sold: 345,000 units
 - Total Revenue: 1,462,500
 ##### Regional Performance:
@@ -154,7 +150,7 @@ The pivot table provides a summary of total sales by region, detailing both the 
 - North Region: While lower in quantity sold (62,500 units), it generates significant revenue (425,000).
 - East Region: Moderate performer with 102,500 units sold and a revenue of 287,500.
 - West Region: Lowest in both quantity sold (57,500 units) and revenue (275,000).
-#### Key Insights
+#### Insights and Recommendations
 ##### Regional Sales Focus:
 - The South region shows strong performance in both quantity and revenue, indicating a high demand. Efforts to maintain and potentially increase this market share could be beneficial.
  The North region, despite lower sales quantity, generates substantial revenue, suggesting higher-priced or premium products are popular. This trend could be leveraged further by introducing similar high-value products.
@@ -170,17 +166,17 @@ These insights will guide the strategic decisions to enhance sales performance a
 
 ### Discussion of Pivot Table Results: Total Sales by Months
 The pivot table summarizes total sales by month, highlighting key insights:
-#### Overall Performance:
+#### Insights and Recommendations
+##### Overall Performance:
 - Total Quantity Sold: 345,000 units
 - Total Revenue: 1,462,500
 - Monthly Highlights:
-#### Top Months:
+##### Top Months:
 - February: 50,000 units sold, 275,000 revenue
 - June: 50,000 units sold, 125,000 revenue
 - March: 45,000 units sold, 62,500 revenue
-#### Low Months:
+##### Low Months:
 - May, April, September, November, and December: Lower quantities and revenues.
-#### Key Insights
 ##### Seasonal Trends:
 - Peaks in February, March, and June suggest leveraging these months for targeted marketing.
  Promotional events in lower months (April, September, December) can boost sales.
@@ -192,24 +188,61 @@ The pivot table summarizes total sales by month, highlighting key insights:
 - Alignment in inventory with peak months to prevent stockouts.
 - Optimization of inventory in lower months to avoid overstocking.
 
-### Line Chart Analysis: Sales by Month
+![line1](https://github.com/user-attachments/assets/2a90628e-fd74-4378-9a0b-76c41790fb5e)
+
+### Discussion of Line Chart Analysis: Sales by Month Results
 The line chart presents the sales trends by month, showing the sum of quantities sold and the sum of unit prices:
-#### Overall Trends:
+#### Insights and Recommendations
+##### Overall Trends:
 - Both quantity and revenue exhibit noticeable fluctuations throughout the year.
-#### Peak Months:
+##### Peak Months:
 - February and June: Highest peaks in both quantity and revenue, indicating strong sales performance.
 - March: High quantity sold but significantly lower revenue, suggesting possible discounts or promotions.
-#### Low Months:
+##### Low Months:
 - April, May, September, and December: Noticeable dips in both quantity and revenue, indicating periods of lower sales.
 - Insights and Recommendations
-#### Seasonal Trends:
+##### Seasonal Trends:
 - Capitalize on strong sales months (February and June) with enhanced inventory and targeted promotions.
 - Implementation of strategic marketing campaigns during low months (April, September, December) to stimulate demand.
-#### Revenue Optimization:
+##### Revenue Optimization:
 - Investigatation of pricing strategies in March is required to convert high sales volume into higher revenue.
-#### Inventory Management:
+##### Inventory Management:
 - Sufficient stock for peak months has to be ensured to avoid missed sales opportunities.
 - Optimization of inventory levels during lower sales months is needed to reduce carrying costs.
+
+### Discussion of Average Sales per Product Result:
+Using the pivot table and the formula =AVERAGE(C4:C9), the average sales per product is calculated as 243,750. This value represents the mean sales figure across all product categories.
+#### Insights
+##### Benchmark:
+- 243,750 serves as a benchmark for product performance.
+##### Top Performers:
+- Products like Shoes (3,087,500) and Shirt (2,450,000) exceed the average.
+##### Underperformers:
+- Products like Socks (912,500) are below the average, indicating areas for improvement.
+#### Recommendations
+##### Targeted Marketing:
+- Boost sales of underperforming products with focused marketing strategies.
+##### Pricing Adjustments:
+-Review and adjust pricing for products below the average to increase competitiveness.
+##### Product Enhancements:
+- Invest in improving underperforming products to better meet customer needs.
+##### Optimized Inventory:
+- Ensure high-demand products are well-stocked and manage inventory for low-demand items to avoid overstocking.
+
+### Disusssion of Total Revenue by Region Result:
+Using the formula =SUM(G4:G7) from the pivot table of total sales by region, the total revenue is calculated as 1,462,500.
+#### Insights
+##### Overall Performance:
+The total revenue across all regions amounts to 1,462,500, indicating the overall sales performance of the retail store.
+##### Regional Contributions:
+The revenue contributions from different regions can be assessed to understand regional sales dynamics.
+#### Recommendations
+##### Regional Strategies:
+Develop tailored strategies to boost sales in lower-performing regions.
+##### Resource Allocation:
+Allocate resources efficiently based on regional performance to maximize overall revenue.
+##### Market Analysis:
+Conduct further analysis to identify factors driving higher sales in top-performing regions and replicate these strategies in other areas.
 
 ### Discussion of SQL Query: Total Sales for Each Product Category
 #### SQL Query: sql code
@@ -285,7 +318,7 @@ The SQL query retrieves the total revenue for each product. Here is the result:
 - Shoes generate the highest revenue with 3,087,500, indicating strong demand.
 - Shirt also performs well with a revenue of 2,450,000.
 - Socks have the lowest revenue at 912,500, suggesting lower demand compared to other products.
-#### Recommendation:
+#### Recommendations:
 - Shoes: Maintain high inventory levels and continue marketing efforts to sustain sales.
 - Shirt: Leverage the high revenue by expanding the product line or introducing new styles.
 - Socks: Implement targeted promotions and marketing strategies to boost sales and improve revenue.
@@ -310,7 +343,7 @@ The SQL query retrieves the monthly sales totals for the current year. Here is t
 - Consistent Sales: January also saw high sales with 1,000,000.
 - Lowest Sales: July recorded the lowest sales at 187,500.
 - Moderate Performance: March to August experienced moderate sales with some fluctuations.
-#### Recommendation:
+#### Recommendations:
 - High-Performing Months: Leverage successful strategies from January and February to boost sales in other months.
 - Low-Performing Months: Investigate and address the factors contributing to the low sales in July.
 - Overall Strategy: Maintain a consistent marketing and sales strategy throughout the year to even out fluctuations and improve overall performance.
@@ -331,7 +364,7 @@ The SQL query retrieves the top 5 customers by the total purchase amount. Here i
 - Concentrated spending among top customers
 - Loyalty and potential repeat business
 - Opportunity for targeted marketing and personalized service
-#### Recommendation:
+#### Recommendations:
 - Personalized Marketing: Tailor promotions and offers to these high-value customers.
 - Priority Service: Offer exclusive support and loyalty programs.
 - Upselling Opportunities: Identify chances to upsell/cross-sell products.
@@ -373,13 +406,27 @@ WHERE
             [dbo].[Capstone -sql1]
         WHERE 
             OrderDate >= DATEADD(quarter, -1, GETDATE())
-    );
+    )
+GROUP BY Product
 ```
 The SQL query retrieves products with no sales in the last quarter. Here is the result:
 
-![ps-sql8](https://github.com/user-attachments/assets/5a3d0268-003f-4f62-8934-ef7bb01d2836)
+![ps-sql9](https://github.com/user-attachments/assets/e52c498e-543e-4374-9f43-8f14f0786055)
 
-
-
-
+#### Insights
+- Gloves, Jacket, Shirt, and Socks have had no sales in the last quarter.
+- This lack of sales could indicate several potential issues such as decreased demand, seasonal variations, or ineffective marketing strategies for these products.
+#### Recommendations
+##### Demand Analysis:
+Conduct market research to understand why demand for these products has declined.
+Assess if these products are seasonal and plan inventory accordingly.
+##### Marketing Strategy:
+Revamp marketing campaigns to highlight these products.
+Offer promotions or discounts to boost sales and clear existing inventory.
+##### Product Review:
+Evaluate the product features, quality, and pricing to ensure they meet customer expectations.
+Consider redesigning or updating these products to align with current market trends.
+##### Sales Channels:
+Explore alternative sales channels or partnerships to reach a wider audience.
+Increase online presence and leverage social media platforms for promotions.
 
