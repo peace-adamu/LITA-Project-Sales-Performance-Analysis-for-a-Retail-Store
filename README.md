@@ -1,4 +1,4 @@
-# Project Title: Sales Performance Analysis for a Retail Store
+# Project Title: Sales Performance Analysis for a Retail Store  ![-5808992407017075915_121](https://github.com/user-attachments/assets/7e1cfe2d-7674-4ed4-ac67-7d59f8336084)
 
 ##  Table of Contents
 - [Acknowledgments](#acknowledgments)
@@ -11,7 +11,7 @@
 
 ## Acknowledgments
 I would like to express my deepest gratitude to the following individuals and organizations for their support and guidance throughout this project:
-First and foremost, I acknowledge the Ladies in Tech African organization for providing the platform and resources necessary to develop my skills in Excel and data analysis. Their commitment to empowering women in technology is truly inspiring.
+First and foremost, I acknowledge the Ladies in Tech Africa organization for providing the platform and resources necessary to develop my skills in Excel and data analysis. Their commitment to empowering women in technology is truly inspiring.
 I would also like to extend my sincere appreciation to my tutors,Mr. Adamu Mu'azu, Mr. Femi Ayodele and Mr. Tee Dee their expertises, patiences, and dedications were instrumental in my success. Also their guidances were invaluable, and I am grateful for the opportunity to learn from them.
 
 ## Project Preview
