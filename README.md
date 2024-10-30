@@ -132,7 +132,7 @@ The pivot table provides a clear summary of total sales by product, showcasing b
 - Gloves: 62,500 units sold, generating 175,000 in revenue.
 - Socks: 40,000 units sold, with a revenue of 137,500.
 ##### Low Performer:
--Jacket: Despite generating a high revenue of 312,500, only 27,500 units were sold, indicating a higher price point.
+- Jacket: Despite generating a high revenue of 312,500, only 27,500 units were sold, indicating a higher price point.
 #### Recommendations:
 - Inventory Management:
 High inventory levels should be maintained for top-selling items like Hats and Shoes to meet consistent demand and avoid stockouts.
