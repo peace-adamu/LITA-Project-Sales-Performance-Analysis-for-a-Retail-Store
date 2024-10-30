@@ -436,3 +436,64 @@ Consider redesigning or updating these products to align with current market tre
 Explore alternative sales channels or partnerships to reach a wider audience.
 Increase online presence and leverage social media platforms for promotions.
 
+![pbi-sales](https://github.com/user-attachments/assets/b16513cb-d5c9-4fe7-a29e-e63058034aaa)
+![pbi-sales2](https://github.com/user-attachments/assets/af74cba8-0138-430e-97b6-f423e05a64b1)
+
+### Discussion of Power BI Visual
+#### Insights
+- Shoes: Highest sales ($31B) and second-highest quantity demanded (72,500).
+- Hats: Highest quantity demanded (80,000) and third-highest sales ($16B).
+- Socks: Lowest sales ($7B) and second-lowest quantity demanded (40,000).
+- South Region: Highest sales ($58B), followed by East ($31B).
+##### Market Trends
+- High demand for headwear (Hats) and footwear (Shoes).
+- Moderate demand for apparel (Shirts, Jackets).
+- Lower demand for accessories (Gloves, Socks).
+##### Business Recommendations
+- Increase production for Shoes and Hats.
+- Optimize inventory management for Socks and Jackets.
+- Analyze customer preferences and market trends.
+Total Sales and Unit Price by Product
+Product	Unit Price (Millions)	Total Sales (Millions)
+##### Observations
+- Unit Price and Sales: Unit price generally decreases as total sales decrease, except for Socks.
+- Shoes: Highest unit price ($0.4M) and total sales ($3.1M).
+- Socks: Lowest total sales ($0.9M) despite the highest unit price ($0.9M).
+Total Sales and Regional Sales by Product
+Product	Total Sales (Millions)	Regional Sales (Millions)
+##### Regional Sales Trends
+- Gloves: Highest regional sales ($27,156M).
+- Hats: Increasing regional sales ($20,906M).
+- Shoes: Decreasing regional sales from $33,281M to $15,975M for Shirts.
+Price and Average Sales by Product
+Product	Unit Price (Millions)	Average Sales
+##### Observations
+- Unit Price and Average Sales: Generally, unit price decreases as average sales decrease, except for Hats.
+- Shoes: Highest unit price ($0.35M) and second-highest average sales (3309).
+- Socks: Lowest unit price ($0.14M) and lowest average sales (122).
+##### Product Performance Analysis
+- High-Performing: Shoes, Shirts.
+- Medium-Performing: Jackets.
+- Low-Performing: Hats, Gloves, Socks.
+###### Pricing Strategy Insights
+- Higher unit prices may not guarantee higher average sales.
+- Optimizing pricing for Hats and Gloves may improve sales.
+- Maintaining competitive pricing for Shoes and Shirts is crucial.
+##### Business Recommendations
+- Analyze customer willingness to pay for each product.
+- Adjust pricing strategy for underperforming products.
+- Monitor market trends and competitor pricing.
+
+
+## Conclusion
+Through the comprehensive analysis using Excel, SQL, and Power BI to gain significant insights into sales performance across products and regions. Excel helped highlight regional sales disparities, with the South region leading in total sales and identified monthly sales trends showing peaks in February and declines in the middle months, indicating seasonality. SQL queries revealed that Shoes were the top-selling product with $3,087,500 in sales, followed by Shirts and Hats. Additionally, the South and East regions had the highest number of sales transactions, confirming their market strength, while Gloves, Jacket, Shirt, and Socks had no sales in the last quarter, signaling potential demand or marketing issues.
+
+Power BI visualizations further enriched the entire understanding, showing the highest quantity demanded for Hats and Shoes, and the South region's dominant revenue generation of $58 billion. The analysis also indicated that higher unit prices generally correlate with higher total sales, except for products like Socks. The average sales per product analysis revealed Shoes and Shirts as high-performing, while Hats, Gloves, and Socks were underperforming.
+
+In summary, the integrated approach using Excel, SQL, and Power BI provided a thorough understanding of the sales landscape, identifying high-demand products, regional sales strengths, and seasonal trends. The insights suggest increasing inventory for popular items like Hats and Shoes, focusing marketing efforts during low-sales months, and reevaluating strategies for low-performing products. Investigating the reasons behind the inactive products' sales and reviving them with targeted campaigns will also be essential. This holistic analysis forms a robust foundation for strategic decisions to optimize sales and inventory management, ensuring sustained growth and profitability.
+
+
+
+
+
+
