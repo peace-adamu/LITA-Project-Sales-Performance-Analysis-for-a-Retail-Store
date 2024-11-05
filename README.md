@@ -13,7 +13,7 @@
 ## Acknowledgments
 I would like to express my deepest gratitude to the following individuals and organizations for their support and guidance throughout this project:
 First and foremost, I acknowledge the Ladies in Tech Africa organization through the Incubator Hub for providing the platform and resources necessary to develop my skills in Excel and data analysis. Their commitment to empowering women in technology is truly inspiring.
-I would also like to extend my sincere appreciation to my tutors,Mr. Adamu Mu'azu, Mr. Femi Ayodele and Mr. Temidayo TeeDee their expertises, patiences, and dedications were instrumental in my success. Also their guidances were invaluable, and I am grateful for the opportunity to learn from them.
+I would also like to extend my sincere appreciation to my facilitators, Mr. Adamu Mu'azu, Mr. Femi Ayodele and Mr. Temidayo TeeDee their expertises, patiences, and dedications were instrumental in my success. Also their guidances were invaluable, and I am grateful for the opportunity to learn from them.
 
 ## Project Preview
 This project involves analyzing sales data for a retail store to identify top-selling products, regional sales trends, and monthly sales patterns. The analysis aims to understand sales performance, track product categories, and highlight key areas for improvement.
@@ -124,16 +124,16 @@ The pivot table provides a clear summary of total sales by product, showcasing b
 #### Insight
 ##### Overall Performance:
 - Total Quantity Sold: 345,000 units
-- Total Revenue: 1,462,500
+- Total Revenue: $1,462,500
 ##### Top Performers:
-- Hat: Highest quantity sold (80,000 units) with a revenue of 212,500.
+- Hat: Highest quantity sold (80,000 units) with a revenue of $212,500.
 - Shoes: Highest revenue (350,000) with a quantity of 72,500 units sold.
-- Shirt: Significant contributor with 62,500 units sold and a revenue of 275,000.
+- Shirt: Significant contributor with 62,500 units sold and a revenue of $275,000.
 ##### Moderate Performers:
-- Gloves: 62,500 units sold, generating 175,000 in revenue.
-- Socks: 40,000 units sold, with a revenue of 137,500.
+- Gloves: 62,500 units sold, generating $175,000 in revenue.
+- Socks: 40,000 units sold, with a revenue of $137,500.
 ##### Low Performer:
-- Jacket: Despite generating a high revenue of 312,500, only 27,500 units were sold, indicating a higher price point.
+- Jacket: Despite generating a high revenue of $312,500, only 27,500 units were sold, indicating a higher price point.
 #### Recommendations:
 - Inventory Management:
 High inventory levels should be maintained for top-selling items like Hats and Shoes to meet consistent demand and avoid stockouts.
@@ -151,12 +151,12 @@ The pivot table provides a summary of total sales by region, detailing both the 
 #### Insights:
 ##### Overall Performance:
 - Total Quantity Sold: 345,000 units
-- Total Revenue: 1,462,500
+- Total Revenue: $1,462,500
 ##### Regional Performance:
-- South Region: Highest in both quantity sold (122,500 units) and revenue (475,000).
-- North Region: While lower in quantity sold (62,500 units), it generates significant revenue (425,000).
-- East Region: Moderate performer with 102,500 units sold and a revenue of 287,500.
-- West Region: Lowest in both quantity sold (57,500 units) and revenue (275,000).
+- South Region: Highest in both quantity sold (122,500 units) and revenue ($475,000).
+- North Region: While lower in quantity sold (62,500 units), it generates significant revenue ($425,000).
+- East Region: Moderate performer with 102,500 units sold and a revenue of $287,500.
+- West Region: Lowest in both quantity sold (57,500 units) and revenue ($275,000).
 #### Insights and Recommendations
 ##### Regional Sales Focus:
 - The South region shows strong performance in both quantity and revenue, indicating a high demand. Efforts to maintain and potentially increase this market share could be beneficial.
@@ -176,12 +176,12 @@ The pivot table summarizes total sales by month, highlighting key insights:
 #### Insights and Recommendations
 ##### Overall Performance:
 - Total Quantity Sold: 345,000 units
-- Total Revenue: 1,462,500
+- Total Revenue: $1,462,500
 - Monthly Highlights:
 ##### Top Months:
-- February: 50,000 units sold, 275,000 revenue
-- June: 50,000 units sold, 125,000 revenue
-- March: 45,000 units sold, 62,500 revenue
+- February: 50,000 units sold, $275,000 revenue
+- June: 50,000 units sold, $125,000 revenue
+- March: 45,000 units sold, $62,500 revenue
 ##### Low Months:
 - May, April, September, November, and December: Lower quantities and revenues.
 ##### Seasonal Trends:
@@ -203,34 +203,34 @@ The line chart presents the sales trends by month, showing the sum of quantities
 ##### Overall Trends:
 - Both quantity and revenue exhibit noticeable fluctuations throughout the year.
 ##### Peak Months:
-- February and June: Highest peaks in both quantity and revenue, indicating strong sales performance.
-- March: High quantity sold but significantly lower revenue, suggesting possible discounts or promotions.
+- February and May: Highest peaks in both quantity and revenue, indicating strong sales performance.
+- June: High quantity sold but significantly lower revenue, suggesting possible discounts or promotions.
 ##### Low Months:
-- April, May, September, and December: Noticeable dips in both quantity and revenue, indicating periods of lower sales.
+- April, September, and December: Noticeable dips in both quantity and revenue, indicating periods of lower sales.
 - Insights and Recommendations
 ##### Seasonal Trends:
-- Capitalize on strong sales months (February and June) with enhanced inventory and targeted promotions.
+- Capitalize on strong sales months (February and May) with enhanced inventory and targeted promotions.
 - Implementation of strategic marketing campaigns during low months (April, September, December) to stimulate demand.
 ##### Revenue Optimization:
-- Investigatation of pricing strategies in March is required to convert high sales volume into higher revenue.
+- Investigatation of pricing strategies in June is required to convert high sales volume into higher revenue.
 ##### Inventory Management:
 - Sufficient stock for peak months has to be ensured to avoid missed sales opportunities.
 - Optimization of inventory levels during lower sales months is needed to reduce carrying costs.
 
 ### Discussion of Average Sales per Product Result:
-Using the pivot table and the formula =AVERAGE(C4:C9), the average sales per product is calculated as 243,750. This value represents the mean sales figure across all product categories.
+Using the pivot table and the formula =AVERAGE(C4:C9), the average sales per product is calculated as $243,750. This value represents the mean sales figure across all product categories.
 #### Insights
 ##### Benchmark:
-- 243,750 serves as a benchmark for product performance.
+- $243,750 serves as a benchmark for product performance.
 ##### Top Performers:
-- Products like Shoes (3,087,500) and Shirt (2,450,000) exceed the average.
+- Products like Shoes ($3,087,500) and Shirt ($2,450,000) exceed the average.
 ##### Underperformers:
-- Products like Socks (912,500) are below the average, indicating areas for improvement.
+- Products like Socks ($912,500) are below the average, indicating areas for improvement.
 #### Recommendations
 ##### Targeted Marketing:
 - Boost sales of underperforming products with focused marketing strategies.
 ##### Pricing Adjustments:
--Review and adjust pricing for products below the average to increase competitiveness.
+- Review and adjust pricing for products below the average to increase competitiveness.
 ##### Product Enhancements:
 - Invest in improving underperforming products to better meet customer needs.
 ##### Optimized Inventory:
@@ -263,14 +263,14 @@ The SQL query retrieves the total sales for each product category by summing the
  ![ps-sql1](https://github.com/user-attachments/assets/2cf73348-ae67-4953-87e9-1b3de0fbf7ea)
 #### Insights and Recommendations 
 ##### Top Performer:
-- Shoes: Highest sales (3,087,500). Maintain high inventory levels.
+- Shoes: Highest sales ($3,087,500). Maintain high inventory levels.
 ##### Moderate Performers:
-- Shirt: Strong sales (2,450,000). Sustain focus.
-- Hat: Solid sales (1,587,500). Consider additional promotions.
-- Gloves: Good sales (1,500,000). Increase marketing efforts.
+- Shirt: Strong sales ($2,450,000). Sustain focus.
+- Hat: Solid sales ($1,587,500). Consider additional promotions.
+- Gloves: Good sales ($1,500,000). Increase marketing efforts.
 ##### Lower Performers:
-- Jacket: Lower sales (1,050,000). Review pricing and marketing.
-- Socks: Lowest sales (912,500). Boost visibility and promotions.
+- Jacket: Lower sales ($1,050,000). Review pricing and marketing.
+- Socks: Lowest sales ($912,500). Boost visibility and promotions.
 
 ### Discussion of SQL Query: Number of Sales Transactions in Each Region
 The SQL query retrieves the number of sales transactions in each region by counting the unique Order
@@ -322,9 +322,9 @@ GROUP BY Product;
 The SQL query retrieves the total revenue for each product. Here is the result:
 ![ps-sql4](https://github.com/user-attachments/assets/a014b614-7a70-49bc-851a-3729a95f5691)
 #### Insight 
-- Shoes generate the highest revenue with 3,087,500, indicating strong demand.
-- Shirt also performs well with a revenue of 2,450,000.
-- Socks have the lowest revenue at 912,500, suggesting lower demand compared to other products.
+- Shoes generate the highest revenue with $3,087,500, indicating strong demand.
+- Shirt also performs well with a revenue of $2,450,000.
+- Socks have the lowest revenue at $912,500, suggesting lower demand compared to other products.
 #### Recommendations:
 - Shoes: Maintain high inventory levels and continue marketing efforts to sustain sales.
 - Shirt: Leverage the high revenue by expanding the product line or introducing new styles.
@@ -346,9 +346,9 @@ The SQL query retrieves the monthly sales totals for the current year. Here is t
 ![ps-sql5](https://github.com/user-attachments/assets/2164d3d2-92be-479f-b73a-2dd769965596)
 
 #### Insights
-- Peak Sales: February had the highest sales at 1,500,000.
-- Consistent Sales: January also saw high sales with 1,000,000.
-- Lowest Sales: July recorded the lowest sales at 187,500.
+- Peak Sales: February had the highest sales at $1,500,000.
+- Consistent Sales: January also saw high sales with $1,000,000.
+- Lowest Sales: July recorded the lowest sales at $187,500.
 - Moderate Performance: March to August experienced moderate sales with some fluctuations.
 #### Recommendations:
 - High-Performing Months: Leverage successful strategies from January and February to boost sales in other months.
@@ -425,17 +425,17 @@ The SQL query retrieves products with no sales in the last quarter. Here is the 
 - This lack of sales could indicate several potential issues such as decreased demand, seasonal variations, or ineffective marketing strategies for these products.
 #### Recommendations
 ##### Demand Analysis:
-Conduct market research to understand why demand for these products has declined.
-Assess if these products are seasonal and plan inventory accordingly.
+- Conduct market research to understand why demand for these products has declined.
+- Assess if these products are seasonal and plan inventory accordingly.
 ##### Marketing Strategy:
-Revamp marketing campaigns to highlight these products.
-Offer promotions or discounts to boost sales and clear existing inventory.
+- Revamp marketing campaigns to highlight these products.
+- Offer promotions or discounts to boost sales and clear existing inventory.
 ##### Product Review:
-Evaluate the product features, quality, and pricing to ensure they meet customer expectations.
-Consider redesigning or updating these products to align with current market trends.
+- Evaluate the product features, quality, and pricing to ensure they meet customer expectations.
+- Consider redesigning or updating these products to align with current market trends.
 ##### Sales Channels:
-Explore alternative sales channels or partnerships to reach a wider audience.
-Increase online presence and leverage social media platforms for promotions.
+- Explore alternative sales channels or partnerships to reach a wider audience.
+- Increase online presence and leverage social media platforms for promotions.
 
 ![pbi-sales](https://github.com/user-attachments/assets/b16513cb-d5c9-4fe7-a29e-e63058034aaa)
 ![pbi-sales2](https://github.com/user-attachments/assets/af74cba8-0138-430e-97b6-f423e05a64b1)
